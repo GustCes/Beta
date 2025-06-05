@@ -8,4 +8,4 @@ Funcionalidades:
 -Encriptación de contraseñas para mayor seguridad.
 
 notas importantes:
-en caso de tener otra base dedatos, asegurarse de configurar su conexion.
+en caso de tener otra base dedatos.
